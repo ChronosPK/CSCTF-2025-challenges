@@ -22,7 +22,7 @@ _Total visible challenges: 54_
 
 # 🚩 CRYPTO 🚩
 
-## Chef
+## <span style="color:#1E88E5">&#9679;</span> Chef
 
 > Points: **0** · Solves: **0**
 
@@ -99,7 +99,7 @@ CSCTF%7B700%5Fm4ny%5Fl4y3rs%5Fin%5F%2Bhis%5Fr3cip3%7D
 <br>
 <br>
 
-## Enigma
+## <span style="color:#1E88E5">&#9679;</span> Enigma
 
 > Points: **0** · Solves: **0**
 
@@ -200,7 +200,7 @@ Flag (case-insensitive): `CSCTF{much_3nc0d1ng_w@s_d0n3_ch3f}`
 <br>
 <br>
 
-## Friend Check
+## <span style="color:#1E88E5">&#9679;</span> Friend Check
 
 > Points: **0** · Solves: **0**
 
@@ -316,7 +316,7 @@ print(flag_bytes)
 <br>
 <br>
 
-## iBadge
+## <span style="color:#1E88E5">&#9679;</span> iBadge
 
 > Points: **0** · Solves: **0**
 
@@ -391,7 +391,7 @@ If invalid, recheck the seed and hex casing.
 <br>
 <br>
 
-## Letter
+## <span style="color:#1E88E5">&#9679;</span> Letter
 
 > Points: **0** · Solves: **0**
 
@@ -460,7 +460,7 @@ Flag: `CSCTF{puZZl#_pUt_2g3th3R}`
 <br>
 <br>
 
-## Noncesense
+## <span style="color:#1E88E5">&#9679;</span> Noncesense
 
 > Points: **0** · Solves: **0**
 
@@ -564,7 +564,7 @@ CSCTF{ctr_nonce_reuse_breaks_confidentiality!}
 <br>
 <br>
 
-## Norhtline Secrets
+## <span style="color:#1E88E5">&#9679;</span> Norhtline Secrets
 
 > Points: **0** · Solves: **0**
 
@@ -631,7 +631,7 @@ The printed string is the flag (e.g., CSCTF{...}).
 <br>
 <br>
 
-## Rstore
+## <span style="color:#1E88E5">&#9679;</span> Rstore
 
 > Points: **0** · Solves: **0**
 
@@ -705,7 +705,7 @@ rclone cat archive_10_2025:flag.txt
 <br>
 <br>
 
-## Secustoring
+## <span style="color:#1E88E5">&#9679;</span> Secustoring
 
 > Points: **0** · Solves: **0**
 
@@ -910,7 +910,7 @@ CSCTF{cbc_padding_oracles_still_bite}
 
 # 🚩 FORENSICS 🚩
 
-## Artifacts
+## <span style="color:#1E88E5">&#9679;</span> Artifacts
 
 > Points: **0** · Solves: **0**
 
@@ -987,7 +987,7 @@ CSCTF{v4ult_m4st3r_s3cr3t}
 <br>
 <br>
 
-## Logs
+## <span style="color:#1E88E5">&#9679;</span> Logs
 
 > Points: **0** · Solves: **0**
 
@@ -1047,7 +1047,7 @@ CSCTF{DNS_TXT_R3cords_r_sn34ky}
 <br>
 <br>
 
-## Time-gone
+## <span style="color:#1E88E5">&#9679;</span> Time-gone
 
 > Points: **0** · Solves: **0**
 
@@ -1115,7 +1115,7 @@ CSCTF{sn3@ky_p@cK3Ts}
 <br>
 <br>
 
-## Update
+## <span style="color:#1E88E5">&#9679;</span> Update
 
 > Points: **0** · Solves: **0**
 
@@ -1176,7 +1176,7 @@ CSCTF{sh0rtcu7s_c4n_b3_d4ng3rous}
 <br>
 <br>
 
-## Volatile Questions
+## <span style="color:#1E88E5">&#9679;</span> Volatile Questions
 
 > Points: **0** · Solves: **0**
 
@@ -1257,7 +1257,7 @@ Combine the three decoded parts:
 
 # 🚩 LINUX 🚩
 
-## Interview-1
+## <span style="color:#1E88E5">&#9679;</span> Interview-1
 
 > Points: **0** · Solves: **0**
 
@@ -1336,7 +1336,7 @@ CSCTF{f1Rst_f1@g_r00k13}
 <br>
 <br>
 
-## Interview-2
+## <span style="color:#1E88E5">&#9679;</span> Interview-2
 
 > Points: **0** · Solves: **0**
 
@@ -1413,7 +1413,7 @@ CSCTF{s3c0nD_r0und_k1ddie}
 <br>
 <br>
 
-## Interview-3
+## <span style="color:#1E88E5">&#9679;</span> Interview-3
 
 > Points: **0** · Solves: **0**
 
@@ -1490,7 +1490,7 @@ CSCTF{jUsT_s0m3_f1L3S_yOu_sh0u1d_kn0w}
 <br>
 <br>
 
-## Interview-4
+## <span style="color:#1E88E5">&#9679;</span> Interview-4
 
 > Points: **0** · Solves: **0**
 
@@ -1575,7 +1575,7 @@ CSCTF{c0nfigur4+i0n_4nd_p3rf3c+_si+u4+i0n}
 <br>
 <br>
 
-## MultiDB
+## <span style="color:#1E88E5">&#9679;</span> MultiDB
 
 > Points: **0** · Solves: **0**
 
@@ -1657,7 +1657,7 @@ CSCTF{0w_hOw_Sw3et_Y0u_!nt3rR@ct3d_w/mY_D@t2baS3s}
 <br>
 <br>
 
-## Shadow Home
+## <span style="color:#1E88E5">&#9679;</span> Shadow Home
 
 > Points: **0** · Solves: **0**
 
@@ -1741,7 +1741,7 @@ CSCTF{m0unT@1N_of_P3Rm!44ionS}
 
 # 🚩 MISC 🚩
 
-## Brainrottalk
+## <span style="color:#1E88E5">&#9679;</span> Brainrottalk
 
 > Points: **0** · Solves: **0**
 
@@ -1806,7 +1806,7 @@ CSCTF{SK1B1D1_P4ST4_R3S0N4NC3_6_7}
 <br>
 <br>
 
-## CyberSonics-1
+## <span style="color:#1E88E5">&#9679;</span> CyberSonics-1
 
 > Points: **0** · Solves: **0**
 
@@ -1879,7 +1879,7 @@ CSCTF{W4V35_4R3_FUN}
 <br>
 <br>
 
-## CyberSonics-2
+## <span style="color:#1E88E5">&#9679;</span> CyberSonics-2
 
 > Points: **0** · Solves: **0**
 
@@ -1944,7 +1944,7 @@ CSCTF{X0r_0r_n0t_X0r_Th4t_1s_Th3_Qu3st10n}
 <br>
 <br>
 
-## CyberSonics-3
+## <span style="color:#1E88E5">&#9679;</span> CyberSonics-3
 
 > Points: **0** · Solves: **0**
 
@@ -2023,7 +2023,7 @@ CSCTF{waves_are_not_as_fun_when_they_are_mixed_up}
 <br>
 <br>
 
-## Parano1d
+## <span style="color:#1E88E5">&#9679;</span> Parano1d
 
 > Points: **0** · Solves: **0**
 
@@ -2108,7 +2108,7 @@ CSCTF{PARANOID_CONTRACTORS_ARE_THE_WORST}
 <br>
 <br>
 
-## Rnd
+## <span style="color:#1E88E5">&#9679;</span> Rnd
 
 > Points: **0** · Solves: **0**
 
@@ -2192,7 +2192,7 @@ CSCTF{r@n0m_1s_n3V#R_en0UGH}
 <br>
 <br>
 
-## Romeo and Julia
+## <span style="color:#1E88E5">&#9679;</span> Romeo and Julia
 
 > Points: **0** · Solves: **0**
 
@@ -2254,7 +2254,7 @@ cat /flag.txt
 <br>
 <br>
 
-## Secret
+## <span style="color:#1E88E5">&#9679;</span> Secret
 
 > Points: **0** · Solves: **0**
 
@@ -2397,7 +2397,7 @@ You now have the flag.
 <br>
 <br>
 
-## White Noise
+## <span style="color:#1E88E5">&#9679;</span> White Noise
 
 > Points: **0** · Solves: **0**
 
@@ -2477,7 +2477,7 @@ CSCTF{not_just_noise_there_is_a_fl4g}
 
 # 🚩 OSINT 🚩
 
-## Domain
+## <span style="color:#1E88E5">&#9679;</span> Domain
 
 > Points: **0** · Solves: **0**
 
@@ -2556,7 +2556,7 @@ CSCTF{no_yes_no_no_no_no_no_yes_yes_yes}
 <br>
 <br>
 
-## History
+## <span style="color:#1E88E5">&#9679;</span> History
 
 > Points: **0** · Solves: **0**
 
@@ -2613,7 +2613,7 @@ CSCTF{2025-11-07}
 <br>
 <br>
 
-## MITRE
+## <span style="color:#1E88E5">&#9679;</span> MITRE
 
 > Points: **0** · Solves: **0**
 
@@ -2671,7 +2671,7 @@ CSCTF{T1041-Exfiltration}
 <br>
 <br>
 
-## Pwned
+## <span style="color:#1E88E5">&#9679;</span> Pwned
 
 > Points: **0** · Solves: **0**
 
@@ -2732,7 +2732,7 @@ CSCTF{11971-342}
 <br>
 <br>
 
-## Sakot
+## <span style="color:#1E88E5">&#9679;</span> Sakot
 
 > Points: **0** · Solves: **0**
 
@@ -2790,7 +2790,7 @@ CSCTF{60.1618,24.9395}
 <br>
 <br>
 
-## VulnDB
+## <span style="color:#1E88E5">&#9679;</span> VulnDB
 
 > Points: **0** · Solves: **0**
 
@@ -2853,7 +2853,7 @@ CSCTF{CVE-2021-44228-10.0}
 
 # 🚩 PROGRAMMING 🚩
 
-## Intreview-1
+## <span style="color:#1E88E5">&#9679;</span> Intreview-1
 
 > Points: **0** · Solves: **0**
 
@@ -2930,7 +2930,7 @@ CSCTF{p@rS3_0f_Th3_LOG}
 <br>
 <br>
 
-## Intreview-2
+## <span style="color:#1E88E5">&#9679;</span> Intreview-2
 
 > Points: **0** · Solves: **0**
 
@@ -3004,7 +3004,7 @@ CSCTF{#y3s_one_n0_2_No_z$r0}
 <br>
 <br>
 
-## Intreview-3
+## <span style="color:#1E88E5">&#9679;</span> Intreview-3
 
 > Points: **0** · Solves: **0**
 
@@ -3081,7 +3081,7 @@ CSCTF{@ss3mBle33333}
 <br>
 <br>
 
-## Intreview-4
+## <span style="color:#1E88E5">&#9679;</span> Intreview-4
 
 > Points: **0** · Solves: **0**
 
@@ -3153,7 +3153,7 @@ CSCTF{MC_@utH}
 <br>
 <br>
 
-## Intreview-5
+## <span style="color:#1E88E5">&#9679;</span> Intreview-5
 
 > Points: **0** · Solves: **0**
 
@@ -3229,7 +3229,7 @@ CSCTF{JWt_@uTh3nt1c2tI0n_3XtR@cT!0n}
 <br>
 <br>
 
-## Intreview-6
+## <span style="color:#1E88E5">&#9679;</span> Intreview-6
 
 > Points: **0** · Solves: **0**
 
@@ -3313,7 +3313,7 @@ CSCTF{TL5_scr33n1ng_@}
 
 # 🚩 PWN 🚩
 
-## Blic
+## <span style="color:#1E88E5">&#9679;</span> Blic
 
 > Points: **0** · Solves: **0**
 
@@ -3374,7 +3374,7 @@ Drop a solver in `dev/assets/solve.py` based on your leaked offsets; adjust offs
 <br>
 <br>
 
-## Print
+## <span style="color:#1E88E5">&#9679;</span> Print
 
 > Points: **0** · Solves: **0**
 
@@ -3448,7 +3448,7 @@ Helper script: `dev/assets/solve.py` automates leak → calc → GOT overwrite �
 
 # 🚩 REV 🚩
 
-## Chrono-key
+## <span style="color:#1E88E5">&#9679;</span> Chrono-key
 
 > Points: **0** · Solves: **0**
 
@@ -3521,7 +3521,7 @@ Run the binary with the derived argument:
 <br>
 <br>
 
-## Covert
+## <span style="color:#1E88E5">&#9679;</span> Covert
 
 > Points: **0** · Solves: **0**
 
@@ -3592,7 +3592,7 @@ CSCTF{w3b_l0c@l_0nly_5elf_d3str0y}
 <br>
 <br>
 
-## Ransom
+## <span style="color:#1E88E5">&#9679;</span> Ransom
 
 > Points: **0** · Solves: **0**
 
@@ -3656,7 +3656,7 @@ No real encryption happens; the "ransom" password is the flag.
 
 # 🚩 SANITY CHECK 🚩
 
-## Rules
+## <span style="color:#1E88E5">&#9679;</span> Rules
 
 > Points: **0** · Solves: **0**
 
@@ -3715,7 +3715,7 @@ CSCTF{s0rry_bu+_y0u_n33d_+0_ch3ck_+h3_rul3s}
 
 # 🚩 STEGANO 🚩
 
-## Specter
+## <span style="color:#1E88E5">&#9679;</span> Specter
 
 > Points: **0** · Solves: **0**
 
@@ -3782,7 +3782,7 @@ CSCTF{c@nt_y0u_h34r_7h3_f473s}
 
 # 🚩 WEB 🚩
 
-## Abnormalized
+## <span style="color:#1E88E5">&#9679;</span> Abnormalized
 
 > Points: **0** · Solves: **0**
 
@@ -3850,7 +3850,7 @@ CSCTF{haNdl3_abN0rm@l_paY10@ds}
 <br>
 <br>
 
-## Chatbot-1
+## <span style="color:#1E88E5">&#9679;</span> Chatbot-1
 
 > Points: **0** · Solves: **0**
 
@@ -3908,7 +3908,7 @@ CSCTF{r0le_manag3d_vi4_localStorage_1s_b4d}
 <br>
 <br>
 
-## Chatbot-2
+## <span style="color:#1E88E5">&#9679;</span> Chatbot-2
 
 > Points: **0** · Solves: **0**
 
@@ -3970,7 +3970,7 @@ CSCTF{y0u_c4n7_h1d3_fr0m_1D0R}
 <br>
 <br>
 
-## Chatbot-3
+## <span style="color:#1E88E5">&#9679;</span> Chatbot-3
 
 > Points: **0** · Solves: **0**
 
@@ -4031,7 +4031,7 @@ CSCTF{H4ck3d_V14_SqL_1nj3ct10n}
 <br>
 <br>
 
-## Requests
+## <span style="color:#1E88E5">&#9679;</span> Requests
 
 > Points: **0** · Solves: **0**
 
@@ -4132,7 +4132,7 @@ CSCTF{0nly_c0UP13_r7que2T2}
 <br>
 <br>
 
-## The Box
+## <span style="color:#1E88E5">&#9679;</span> The Box
 
 > Points: **0** · Solves: **0**
 
