@@ -24,7 +24,7 @@ _Total visible challenges: 54_
 
 ## <span style="color:#1E88E5">&#9679;</span> Chef
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **137**
 
 > **Flag:** `CSCTF{700_m4ny_l4y3rs_in_+his_r3cip3}`<br>
 > **Deployment:** `dynamic`<br>
@@ -101,7 +101,7 @@ CSCTF%7B700%5Fm4ny%5Fl4y3rs%5Fin%5F%2Bhis%5Fr3cip3%7D
 
 ## <span style="color:#1E88E5">&#9679;</span> Enigma
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **76**
 
 > **Flag:** `CSCTF{much_3nc0d1ng_w@s_d0n3_ch3f}`<br>
 > **Deployment:** `dynamic`<br>
@@ -202,7 +202,7 @@ Flag (case-insensitive): `CSCTF{much_3nc0d1ng_w@s_d0n3_ch3f}`
 
 ## <span style="color:#1E88E5">&#9679;</span> Friend Check
 
-> Points: **0** · Solves: **0**
+> Points: **300** · Solves: **5**
 
 > **Flag:** `CTF{w0w_CTFers_hav3_fr31nds!?!!!}`<br>
 > **Deployment:** `dynamic`<br>
@@ -318,7 +318,7 @@ print(flag_bytes)
 
 ## <span style="color:#1E88E5">&#9679;</span> iBadge
 
-> Points: **0** · Solves: **0**
+> Points: **443** · Solves: **20**
 
 > **Flag:** `CSCTF{w3LLD0NE_QR_pr3dct2v#_P@sS}`<br>
 > **Deployment:** `docker`<br>
@@ -393,7 +393,7 @@ If invalid, recheck the seed and hex casing.
 
 ## <span style="color:#1E88E5">&#9679;</span> Letter
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **111**
 
 > **Flag:** `CSCTF{puZZl#_pUt_2g3th3R}`<br>
 > **Deployment:** `dynamic`<br>
@@ -462,7 +462,7 @@ Flag: `CSCTF{puZZl#_pUt_2g3th3R}`
 
 ## <span style="color:#1E88E5">&#9679;</span> Noncesense
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **82**
 
 > **Flag:** `CSCTF{c7r_n0nc3_r3us3_br34ks_c0nfid3n7i4li7y}`<br>
 > **Deployment:** `dynamic`<br>
@@ -566,7 +566,7 @@ CSCTF{ctr_nonce_reuse_breaks_confidentiality!}
 
 ## <span style="color:#1E88E5">&#9679;</span> Norhtline Secrets
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **52**
 
 > **Flag:** `CSCTF{sops_age_leak_operational_impact}`<br>
 > **Deployment:** `dynamic`<br>
@@ -633,7 +633,7 @@ The printed string is the flag (e.g., CSCTF{...}).
 
 ## <span style="color:#1E88E5">&#9679;</span> Rstore
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **63**
 
 > **Flag:** `CSCTF{c0nf1G_w1ns_m3_oV3R}`<br>
 > **Deployment:** `dynamic`<br>
@@ -707,7 +707,7 @@ rclone cat archive_10_2025:flag.txt
 
 ## <span style="color:#1E88E5">&#9679;</span> Secustoring
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **20**
 
 > **Flag:** `CSCTF{cbc_padding_oracles_still_bite}`<br>
 > **Deployment:** `dynamic`<br>
@@ -912,7 +912,7 @@ CSCTF{cbc_padding_oracles_still_bite}
 
 ## <span style="color:#1E88E5">&#9679;</span> Artifacts
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **68**
 
 > **Flag:** `CSCTF{v4ult_m4st3r_s3cr3t}`<br>
 > **Deployment:** `dynamic`<br>
@@ -989,7 +989,7 @@ CSCTF{v4ult_m4st3r_s3cr3t}
 
 ## <span style="color:#1E88E5">&#9679;</span> Logs
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **23**
 
 > **Flag:** `CSCTF{DNS_TXT_R3cords_r_sn34ky}`<br>
 > **Deployment:** `dynamic`<br>
@@ -1049,7 +1049,7 @@ CSCTF{DNS_TXT_R3cords_r_sn34ky}
 
 ## <span style="color:#1E88E5">&#9679;</span> Time-gone
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **58**
 
 > **Flag:** `CSCTF{sn3@ky_p@cK3Ts}`<br>
 > **Deployment:** `dynamic`<br>
@@ -1117,7 +1117,7 @@ CSCTF{sn3@ky_p@cK3Ts}
 
 ## <span style="color:#1E88E5">&#9679;</span> Update
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **67**
 
 > **Flag:** `CSCTF{sh0rtcu7s_c4n_b3_d4ng3rous}`<br>
 > **Deployment:** `dynamic`<br>
@@ -1178,7 +1178,7 @@ CSCTF{sh0rtcu7s_c4n_b3_d4ng3rous}
 
 ## <span style="color:#1E88E5">&#9679;</span> Volatile Questions
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **28**
 
 > **Flag:** `CSCTF{w1nd0w5_53cur17y_qu35710n5_4r3_c00k3d}`<br>
 > **Deployment:** `dynamic`<br>
@@ -1259,7 +1259,7 @@ Combine the three decoded parts:
 
 ## <span style="color:#1E88E5">&#9679;</span> Interview-1
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **110**
 
 > **Flag:** `CSCTF{f1Rst_f1@g_r00k13}`<br>
 > **Deployment:** `docker`<br>
@@ -1338,7 +1338,7 @@ CSCTF{f1Rst_f1@g_r00k13}
 
 ## <span style="color:#1E88E5">&#9679;</span> Interview-2
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **102**
 
 > **Flag:** `CSCTF{s3c0nD_r0und_k1ddie}`<br>
 > **Deployment:** `docker`<br>
@@ -1415,7 +1415,7 @@ CSCTF{s3c0nD_r0und_k1ddie}
 
 ## <span style="color:#1E88E5">&#9679;</span> Interview-3
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **97**
 
 > **Flag:** `CSCTF{jUsT_s0m3_f1L3S_yOu_sh0u1d_kn0w}`<br>
 > **Deployment:** `docker`<br>
@@ -1492,7 +1492,7 @@ CSCTF{jUsT_s0m3_f1L3S_yOu_sh0u1d_kn0w}
 
 ## <span style="color:#1E88E5">&#9679;</span> Interview-4
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **86**
 
 > **Flag:** `CSCTF{c0nfigur4+i0n_4nd_p3rf3c+_si+u4+i0n}`<br>
 > **Deployment:** `docker`<br>
@@ -1577,7 +1577,7 @@ CSCTF{c0nfigur4+i0n_4nd_p3rf3c+_si+u4+i0n}
 
 ## <span style="color:#1E88E5">&#9679;</span> MultiDB
 
-> Points: **0** · Solves: **0**
+> Points: **500** · Solves: **N/A (offline)**
 
 > **Flag:** `CSCTF{0whOwSw3et_Y0u!nt3rR@ct3d_w/mYD@t2baS3s}`<br>
 > **Deployment:** `docker`<br>
@@ -1659,7 +1659,7 @@ CSCTF{0w_hOw_Sw3et_Y0u_!nt3rR@ct3d_w/mY_D@t2baS3s}
 
 ## <span style="color:#1E88E5">&#9679;</span> Shadow Home
 
-> Points: **0** · Solves: **0**
+> Points: **500** · Solves: **N/A (offline)**
 
 > **Flag:** `CSCTF{m0unT@1N_of_P3Rm!44ionS}`<br>
 > **Deployment:** `docker`<br>
@@ -1743,7 +1743,7 @@ CSCTF{m0unT@1N_of_P3Rm!44ionS}
 
 ## <span style="color:#1E88E5">&#9679;</span> Brainrottalk
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **17**
 
 > **Flag:** `CSCTF{SK1B1D1_P4ST4_R3S0N4NC3_6_7}`<br>
 > **Deployment:** `dynamic`<br>
@@ -1808,7 +1808,7 @@ CSCTF{SK1B1D1_P4ST4_R3S0N4NC3_6_7}
 
 ## <span style="color:#1E88E5">&#9679;</span> CyberSonics-1
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **27**
 
 > **Flag:** `CSCTF{W4V35_4R3_FUN}`<br>
 > **Deployment:** `dynamic`<br>
@@ -1881,7 +1881,7 @@ CSCTF{W4V35_4R3_FUN}
 
 ## <span style="color:#1E88E5">&#9679;</span> CyberSonics-2
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **11**
 
 > **Flag:** `CSCTF{X0r_0r_n0t_X0r_Th4t_1s_Th3_Qu3st10n}`<br>
 > **Deployment:** `dynamic`<br>
@@ -1946,7 +1946,7 @@ CSCTF{X0r_0r_n0t_X0r_Th4t_1s_Th3_Qu3st10n}
 
 ## <span style="color:#1E88E5">&#9679;</span> CyberSonics-3
 
-> Points: **0** · Solves: **0**
+> Points: **400** · Solves: **3**
 
 > **Flag:** `CSCTF{waves_are_not_as_fun_when_they_are_mixed_up}`<br>
 > **Deployment:** `dynamic`<br>
@@ -2025,7 +2025,7 @@ CSCTF{waves_are_not_as_fun_when_they_are_mixed_up}
 
 ## <span style="color:#1E88E5">&#9679;</span> Parano1d
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **59**
 
 > **Flag:** `CSCTF{PARANOID_CONTRACTORS_ARE_THE_WORST}`<br>
 > **Deployment:** `dynamic`<br>
@@ -2110,7 +2110,7 @@ CSCTF{PARANOID_CONTRACTORS_ARE_THE_WORST}
 
 ## <span style="color:#1E88E5">&#9679;</span> Rnd
 
-> Points: **0** · Solves: **0**
+> Points: **500** · Solves: **N/A (offline)**
 
 > **Flag:** `CSCTF{r@n0m_1s_n3V#R_en0UGH}`<br>
 > **Deployment:** `docker`<br>
@@ -2194,7 +2194,7 @@ CSCTF{r@n0m_1s_n3V#R_en0UGH}
 
 ## <span style="color:#1E88E5">&#9679;</span> Romeo and Julia
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **52**
 
 > **Flag:** `CSCTF{jul1a_pr0gramm1ng_1s_4_th1ng}`<br>
 > **Deployment:** `dynamic`<br>
@@ -2256,7 +2256,7 @@ cat /flag.txt
 
 ## <span style="color:#1E88E5">&#9679;</span> Secret
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **66**
 
 > **Flag:** `CSCTF{just_anoth3R_R1P0}`<br>
 > **Deployment:** `dynamic`<br>
@@ -2399,7 +2399,7 @@ You now have the flag.
 
 ## <span style="color:#1E88E5">&#9679;</span> White Noise
 
-> Points: **0** · Solves: **0**
+> Points: **304** · Solves: **36**
 
 > **Flag:** `CSCTF{not_just_noise_there_is_a_fl4g}`<br>
 > **Deployment:** `docker`<br>
@@ -2479,7 +2479,7 @@ CSCTF{not_just_noise_there_is_a_fl4g}
 
 ## <span style="color:#1E88E5">&#9679;</span> Domain
 
-> Points: **0** · Solves: **0**
+> Points: **50** · Solves: **109**
 
 > **Flag:** `CSCTF{no_yes_no_no_no_no_no_yes_yes_yes}`<br>
 > **Deployment:** `dynamic`<br>
@@ -2558,7 +2558,7 @@ CSCTF{no_yes_no_no_no_no_no_yes_yes_yes}
 
 ## <span style="color:#1E88E5">&#9679;</span> History
 
-> Points: **0** · Solves: **0**
+> Points: **50** · Solves: **135**
 
 > **Flag:** `CSCTF{2025-11-07}`<br>
 > **Deployment:** `dynamic`<br>
@@ -2615,7 +2615,7 @@ CSCTF{2025-11-07}
 
 ## <span style="color:#1E88E5">&#9679;</span> MITRE
 
-> Points: **0** · Solves: **0**
+> Points: **50** · Solves: **87**
 
 > **Flag:** `CSCTF{T1041-Exfiltration}`<br>
 > **Deployment:** `dynamic`<br>
@@ -2673,7 +2673,7 @@ CSCTF{T1041-Exfiltration}
 
 ## <span style="color:#1E88E5">&#9679;</span> Pwned
 
-> Points: **0** · Solves: **0**
+> Points: **50** · Solves: **131**
 
 > **Flag:** `CSCTF{11971-342}`<br>
 > **Deployment:** `dynamic`<br>
@@ -2734,7 +2734,7 @@ CSCTF{11971-342}
 
 ## <span style="color:#1E88E5">&#9679;</span> Sakot
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **59**
 
 > **Flag:** `CSCTF{60.1618,24.9395}`<br>
 > **Deployment:** `dynamic`<br>
@@ -2792,7 +2792,7 @@ CSCTF{60.1618,24.9395}
 
 ## <span style="color:#1E88E5">&#9679;</span> VulnDB
 
-> Points: **0** · Solves: **0**
+> Points: **50** · Solves: **133**
 
 > **Flag:** `CSCTF{CVE-2021-44228-10.0}`<br>
 > **Deployment:** `dynamic`<br>
@@ -2855,7 +2855,7 @@ CSCTF{CVE-2021-44228-10.0}
 
 ## <span style="color:#1E88E5">&#9679;</span> Intreview-1
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **61**
 
 > **Flag:** `CSCTF{p@rS3_0f_Th3_LOG}`<br>
 > **Deployment:** `docker`<br>
@@ -2932,7 +2932,7 @@ CSCTF{p@rS3_0f_Th3_LOG}
 
 ## <span style="color:#1E88E5">&#9679;</span> Intreview-2
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **62**
 
 > **Flag:** `CSCTF{#y3s_one_n0_2_No_z$r0}`<br>
 > **Deployment:** `docker`<br>
@@ -3006,7 +3006,7 @@ CSCTF{#y3s_one_n0_2_No_z$r0}
 
 ## <span style="color:#1E88E5">&#9679;</span> Intreview-3
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **60**
 
 > **Flag:** `CSCTF{@ss3mBle33333}`<br>
 > **Deployment:** `docker`<br>
@@ -3083,7 +3083,7 @@ CSCTF{@ss3mBle33333}
 
 ## <span style="color:#1E88E5">&#9679;</span> Intreview-4
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **60**
 
 > **Flag:** `CSCTF{MC_@utH}`<br>
 > **Deployment:** `docker`<br>
@@ -3155,7 +3155,7 @@ CSCTF{MC_@utH}
 
 ## <span style="color:#1E88E5">&#9679;</span> Intreview-5
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **58**
 
 > **Flag:** `CSCTF{JWt_@uTh3nt1c2tI0n_3XtR@cT!0n}`<br>
 > **Deployment:** `docker`<br>
@@ -3231,7 +3231,7 @@ CSCTF{JWt_@uTh3nt1c2tI0n_3XtR@cT!0n}
 
 ## <span style="color:#1E88E5">&#9679;</span> Intreview-6
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **57**
 
 > **Flag:** `CSCTF{TL5_scr33n1ng_@}`<br>
 > **Deployment:** `docker`<br>
@@ -3315,7 +3315,7 @@ CSCTF{TL5_scr33n1ng_@}
 
 ## <span style="color:#1E88E5">&#9679;</span> Blic
 
-> Points: **0** · Solves: **0**
+> Points: **392** · Solves: **27**
 
 > **Flag:** `CSCTF{ret2libc_in_the_big_twentyfive}`<br>
 > **Deployment:** `docker`<br>
@@ -3376,7 +3376,7 @@ Drop a solver in `dev/assets/solve.py` based on your leaked offsets; adjust offs
 
 ## <span style="color:#1E88E5">&#9679;</span> Print
 
-> Points: **0** · Solves: **0**
+> Points: **460** · Solves: **17**
 
 > **Flag:** `CSCTF{printf_go_brrrrrr}`<br>
 > **Deployment:** `docker`<br>
@@ -3450,7 +3450,7 @@ Helper script: `dev/assets/solve.py` automates leak → calc → GOT overwrite �
 
 ## <span style="color:#1E88E5">&#9679;</span> Chrono-key
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **40**
 
 > **Flag:** `CSCTF{This_was_fun_huh}`<br>
 > **Deployment:** `dynamic`<br>
@@ -3523,7 +3523,7 @@ Run the binary with the derived argument:
 
 ## <span style="color:#1E88E5">&#9679;</span> Covert
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **43**
 
 > **Flag:** `CSCTF{w3b_l0c@l_0nly_5elf_d3str0y}`<br>
 > **Deployment:** `dynamic`<br>
@@ -3594,7 +3594,7 @@ CSCTF{w3b_l0c@l_0nly_5elf_d3str0y}
 
 ## <span style="color:#1E88E5">&#9679;</span> Ransom
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **39**
 
 > **Flag:** `CSCTF{be_c4r3ful_an4lys1ng_rans0mw4re}`<br>
 > **Deployment:** `dynamic`<br>
@@ -3658,7 +3658,7 @@ No real encryption happens; the "ransom" password is the flag.
 
 ## <span style="color:#1E88E5">&#9679;</span> Rules
 
-> Points: **0** · Solves: **0**
+> Points: **200** · Solves: **124**
 
 > **Flag:** `CSCTF{s0rry_bu+_y0u_n33d_+0_ch3ck_+h3_rul3s}`<br>
 > **Deployment:** `dynamic`<br>
@@ -3717,7 +3717,7 @@ CSCTF{s0rry_bu+_y0u_n33d_+0_ch3ck_+h3_rul3s}
 
 ## <span style="color:#1E88E5">&#9679;</span> Specter
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **96**
 
 > **Flag:** `CSCTF{simple_spectrogram}`<br>
 > **Deployment:** `dynamic`<br>
@@ -3784,7 +3784,7 @@ CSCTF{c@nt_y0u_h34r_7h3_f473s}
 
 ## <span style="color:#1E88E5">&#9679;</span> Abnormalized
 
-> Points: **0** · Solves: **0**
+> Points: **496** · Solves: **6**
 
 > **Flag:** `CSCTF{haNdl3_abN0rm@l_paY10@ds}`<br>
 > **Deployment:** `docker`<br>
@@ -3852,7 +3852,7 @@ CSCTF{haNdl3_abN0rm@l_paY10@ds}
 
 ## <span style="color:#1E88E5">&#9679;</span> Chatbot-1
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **69**
 
 > **Flag:** `CSCTF{r0le_manag3d_vi4_localStorage_1s_b4d}`<br>
 > **Deployment:** `docker`<br>
@@ -3910,7 +3910,7 @@ CSCTF{r0le_manag3d_vi4_localStorage_1s_b4d}
 
 ## <span style="color:#1E88E5">&#9679;</span> Chatbot-2
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **52**
 
 > **Flag:** `CSCTF{y0u_c4n7_h1d3_fr0m_1D0R}`<br>
 > **Deployment:** `docker`<br>
@@ -3972,7 +3972,7 @@ CSCTF{y0u_c4n7_h1d3_fr0m_1D0R}
 
 ## <span style="color:#1E88E5">&#9679;</span> Chatbot-3
 
-> Points: **0** · Solves: **0**
+> Points: **408** · Solves: **25**
 
 > **Flag:** `CSCTF{H4ck3d_V14_SqL_1nj3ct10n}`<br>
 > **Deployment:** `docker`<br>
@@ -4033,7 +4033,7 @@ CSCTF{H4ck3d_V14_SqL_1nj3ct10n}
 
 ## <span style="color:#1E88E5">&#9679;</span> Requests
 
-> Points: **0** · Solves: **0**
+> Points: **100** · Solves: **73**
 
 > **Flag:** `CSCTF{0nly_c0UP13_r7que2T2}`<br>
 > **Deployment:** `docker`<br>
@@ -4134,7 +4134,7 @@ CSCTF{0nly_c0UP13_r7que2T2}
 
 ## <span style="color:#1E88E5">&#9679;</span> The Box
 
-> Points: **0** · Solves: **0**
+> Points: **499** · Solves: **4**
 
 > **Flag:** `CSCTF{WhY_50_M4NY_57EP5???/?!?!!?!?}`<br>
 > **Deployment:** `docker`<br>
