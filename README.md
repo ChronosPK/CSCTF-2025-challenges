@@ -4,17 +4,17 @@ _Total visible challenges: 54_
 
 ### Category Index
 
-- [Crypto](#crypto) – 9 challenges
-- [Forensics](#forensics) – 5 challenges
-- [Linux](#linux) – 6 challenges
-- [Misc](#misc) – 9 challenges
-- [OSINT](#osint) – 6 challenges
-- [Programming](#programming) – 6 challenges
-- [Pwn](#pwn) – 2 challenges
-- [Rev](#rev) – 3 challenges
-- [Sanity Check](#sanity-check) – 1 challenge
-- [Stegano](#stegano) – 1 challenge
-- [Web](#web) – 6 challenges
+- [Crypto](#-crypto-) – 9 challenges
+- [Forensics](#-forensics-) – 5 challenges
+- [Linux](#-linux-) – 6 challenges
+- [Misc](#-misc-) – 9 challenges
+- [OSINT](#-osint-) – 6 challenges
+- [Programming](#-programming-) – 6 challenges
+- [Pwn](#-pwn-) – 2 challenges
+- [Rev](#-rev-) – 3 challenges
+- [Sanity Check](#-sanity-check-) – 1 challenge
+- [Stegano](#-stegano-) – 1 challenge
+- [Web](#-web-) – 6 challenges
 
 <br>
 
